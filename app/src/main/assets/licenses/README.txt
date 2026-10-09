@@ -1,0 +1,1 @@
+SmsMailForwarder 1.0.0 uses AndroidX WorkManager (Apache-2.0), JavaMail and Android Activation 1.6.7 (licenses and notices included here). JavaMail project and source: https://javaee.github.io/javamail/ ; artifacts: https://repo1.maven.org/maven2/com/sun/mail/ . Libraries are unmodified.

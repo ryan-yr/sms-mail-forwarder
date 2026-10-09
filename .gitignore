@@ -1,0 +1,23 @@
+# Local Android / Gradle configuration
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Private signing keys and credentials (test fixture is explicitly allowed)
+*.p12
+*.jks
+*.keystore
+*.pem
+*.key
+.env
+.env.*
+*password*.txt
+!app/src/test/resources/smtp-test.p12
+
+# Build outputs
+*.apk
+*.aab
+*.idsig
